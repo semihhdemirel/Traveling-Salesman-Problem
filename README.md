@@ -11,7 +11,7 @@ Ants can find the shortest route from the nest to the food. While moving, it dep
 It is more likely to take the route with a large amount of pheromones. 
 More pheromones accumulate in the short path. Therefore, it prefers the shortest path.
 <br><br>
-## Solving Travelin Salesman Problem By Using Ant Colony Optimization Algorithm
+## Solving Traveling Salesman Problem By Using Ant Colony Optimization Algorithm
 In this algorithm, there are 10 provinces from Turkey. The starting and ending point was determined as Istanbul. 
 <br>
 All provinces is given below;

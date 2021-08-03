@@ -17,7 +17,7 @@ In this algorithm, there are 10 provinces from Turkey. The starting and ending p
 All provinces is given below;
 ![GitHub Logo](/results/provinces.jpg)<br>
 The distances between each province are taken from the website of the General Directorate of Highways. <br>
-The distances between each province and initial routes of each province are given in the aco_provinces.py
+The distances between each province and initial routes of each ants are given in the aco_provinces.py
 <br>
 The Initial random routes of the ants and the total distance of these routes are given in the dataframe below;<br><br>
 ![GitHub Logo](/results/initial_routes.jpg)<br><br>
